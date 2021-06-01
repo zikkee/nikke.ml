@@ -1,4 +1,9 @@
 body {
   background-color: #121212;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.sisältö {
+  text-align: center;
 }
 
