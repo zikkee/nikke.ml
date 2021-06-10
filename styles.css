@@ -99,6 +99,16 @@ border-radius: 20px;
   color: #6a6a6a;
 }
 
+@media screen and (max-device-width: 480px) and (orientation: portrait) {
+  .uutisboxi {
+    width: auto;
+  }
+
+  .artikkelikuva {
+    height: 180px;
+  }
+}
+
 
 
 
