@@ -1,9 +1,46 @@
 body {
   background-color: #121212;
   font-family: 'Ubuntu', sans-serif;
+  margin: 0;
 }
 
 .sisältö {
   text-align: center;
 }
+
+.navigaatiopalkki {
+  overflow: hidden;
+  background-color: #333;
+  display: inline-block;
+  display: flex;
+  justify-content: center;
+}
+
+.navigaatiopalkki a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navigaatiopalkki a:hover {
+  background-color: #dadada;
+  color: black;
+}
+
+.navigaatiopalkki a.active {
+  background-color: #ba36be;
+  color: white;
+}
+
+.navigaatiopalkki .icon {
+  display: none;
+}
+
+
+
+
 
