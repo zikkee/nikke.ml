@@ -4,8 +4,37 @@ body {
   margin: 0;
 }
 
+.teksti {
+  color: white;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.otsikko1 {
+  color: white;
+}
+
+.otsikko2 {
+  color: white;
+}
+
+a {
+  color: aqua;
+}
+
+.alaosa {
+  text-align: center;
+}
+
+.profiili {
+  border-radius: 100px;
+  height: 100px;
+}
+
 .sisältö {
   text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 
 .navigaatiopalkki {
@@ -38,6 +67,36 @@ body {
 
 .navigaatiopalkki .icon {
   display: none;
+}
+
+.uutiset-läjä {
+  width: 100%;
+  display: block;
+}
+
+.uutisboxi {
+  margin: 15px;
+  background-color: white;
+  display: inline-block;
+  vertical-align: top;
+  border-radius: 20px;
+  width: 400px;
+}
+
+.artikkelikuva {
+height: 200px;
+display: block;
+margin: auto;
+border-radius: 20px;
+}
+
+.uutisteksti {
+  margin: 15px;
+}
+
+.päiväys {
+  font-style: italic;
+  color: #6a6a6a;
 }
 
 
