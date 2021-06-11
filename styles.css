@@ -7,7 +7,7 @@ body {
 .teksti {
   color: white;
   font-size: 1.1rem;
-  line-height: 1.3rem;
+  line-height: 1.7rem;
 }
 
 .otsikko1 {
@@ -40,8 +40,8 @@ a {
 
 .sisältö {
   text-align: center;
-  margin-left: 400px;
-  margin-right: 400px;
+  margin-left: 550px;
+  margin-right: 550px;
 }
 
 .navigaatiopalkki {
