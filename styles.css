@@ -40,8 +40,8 @@ a {
 
 .sisältö {
   text-align: center;
-  margin-left: 550px;
-  margin-right: 550px;
+  margin-left: 500px;
+  margin-right: 500px;
 }
 
 .navigaatiopalkki {
@@ -115,7 +115,7 @@ border-radius: 20px;
     height: 180px;
   }
 
-  .sisältö {
+  .sisältö{
     margin-left: 20px;
     margin-right: 20px;
   }
