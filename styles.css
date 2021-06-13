@@ -108,6 +108,28 @@ border-radius: 20px;
   color: #6a6a6a;
 }
 
+label {
+  color: white;
+}
+
+input[type=text], textarea {
+  width: 90%;
+  padding: 10px;
+  margin: 15px;
+  border-radius: 5px;
+  resize: vertical;
+}
+
+.laheta {
+  background-color: white;
+  margin: 20px;
+  cursor: pointer;
+  height: 35px;
+  width: 100px;
+  border-radius: 5px;
+}
+
+
 @media screen and (max-device-width: 480px) and (orientation: portrait) {
   .uutisboxi {
     width: auto;
