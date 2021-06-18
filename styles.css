@@ -14,10 +14,14 @@ body {
 
 .otsikko1 {
   color: white;
+  margin-right: 15px;
+  margin-left: 15px;
 }
 
 .otsikko2 {
   color: white;
+  margin-right: 15px;
+  margin-left: 15px;
 }
 
 a {
@@ -84,7 +88,7 @@ a {
 }
 
 .uutisboxi {
-  margin: 15px;
+  margin: 17px;
   background-color: white;
   display: inline-block;
   vertical-align: top;
@@ -127,6 +131,10 @@ input[type=text], textarea {
   height: 35px;
   width: 100px;
   border-radius: 5px;
+}
+
+table {
+  color: white;
 }
 
 
