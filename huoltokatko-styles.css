@@ -1,0 +1,18 @@
+body {
+    background-image: url("/kuvat/tausta.jpg");
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    margin: 300px;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+p {
+    color: white;
+}
