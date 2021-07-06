@@ -16,6 +16,7 @@ body {
   color: white;
   margin-right: 15px;
   margin-left: 15px;
+  text-align: center;
 }
 
 .otsikko2 {
@@ -41,11 +42,12 @@ a {
 
 .profiili {
   border-radius: 100px;
-  height: 100px;
+  height: 70px;
+  margin-right: 15px;
+  float: left;
 }
 
 .sisältö {
-  text-align: center;
   max-width: 800px;
   margin: 0 auto;
 }
@@ -94,6 +96,7 @@ a {
   vertical-align: top;
   border-radius: 20px;
   width: 350px;
+  text-align: center;
 }
 
 .artikkelikuva {
@@ -105,6 +108,18 @@ border-radius: 20px;
 
 .uutisteksti {
   margin: 15px;
+}
+
+.kirjoittaja {
+  color: white;
+  float: left;
+  margin-right: 15px;
+}
+
+.artikkeli-info { 
+  width: 250px;
+  padding: 20px;
+  overflow: hidden;
 }
 
 .päiväys {
@@ -147,8 +162,5 @@ table {
     height: 180px;
   }
 }
-
-
-
 
 
