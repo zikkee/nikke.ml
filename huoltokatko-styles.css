@@ -2,7 +2,7 @@ body {
     background-image: url("/kuvat/tausta.jpg");
     font-family: 'Ubuntu', sans-serif;
     text-align: center;
-    margin: 300px;
+    margin: auto;
 }
 
 h1 {
